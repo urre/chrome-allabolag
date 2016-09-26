@@ -4,7 +4,7 @@ Chrome Extension for searching selected text in swedish price comparison service
 
 Allabolag.se is Sweden's most popular service for anyone interested in finding information such as company sales, annual results, industry, board and addresses.
 
-![](https://cloud.githubusercontent.com/assets/307676/18848137/5af43f5a-842d-11e6-83a0-2a8d9ef5d3e3.png)
+![](https://cloud.githubusercontent.com/assets/307676/18848289/e64b331a-842d-11e6-8161-70ff41fa1769.png)
 
 ## Install
 

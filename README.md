@@ -1,6 +1,6 @@
 # Chrome Allabolag
 
-Chrome Extension for searching selected text in swedish price comparison service [allabolag.se](http://www.allabolag.se).
+Chrome Extension for searching selected text on [allabolag.se](http://www.allabolag.se).
 
 Allabolag.se is Sweden's most popular service for anyone interested in finding information such as company sales, annual results, industry, board and addresses.
 

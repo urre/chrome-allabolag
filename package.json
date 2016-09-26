@@ -1,0 +1,17 @@
+{
+  "name": "allabolag-chrome",
+  "title": "Chrome Extension for opening up current selection on http://www.allabolag.se",
+  "url": "https://github.com/urre/allabolag-chrome",
+  "author": "Urban Sanden",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-vinyl-zip": "^1.1.2",
+    "require-dir": "*"
+  },
+  "devDependencies": {
+    "gulp-zip": "^3.0.2"
+  }
+}
